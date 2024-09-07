@@ -1,4 +1,4 @@
-## Desvendando a Máquina de Pesquisar Montadoras!
+## Desvendando a Máquina de Pesquisar Montadoras - Imersão Dev com Google Gemini!
 
 ### O que é essa aplicação?
 Uma ferramenta rápida e fácil para encontrar tudo sobre as maiores montadoras do Brasil.
